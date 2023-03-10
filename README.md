@@ -1,8 +1,13 @@
 # JAVA-Clase4Ej2
+## Ejemplo 2 del Tutorial de JAVA Clase 4
 
-Ejemplo 2 del apunte de [JAVA Clase 4](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA4.pdf).
-<ul>
-  <li> Swing </li>
-  <li> Componentes de GUI</li>
-  <li> Layouts</li>
-</ul>
+  * Interfaz gráfica en JAVA
+  * Swing
+  * Componentes de GUI
+  * Layouts
+
+## Apunte Clase Teórica JAVA 4
+[JAVA-Clase4](https://profmatiasgarcia.com.ar/uploads/tutoriales/ClaseTeoricaJAVA4.pdf)
+
+## Licencia
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
